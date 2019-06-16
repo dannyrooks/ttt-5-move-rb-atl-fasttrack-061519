@@ -14,6 +14,6 @@ user_input = gets
 # puts user_input
 
 def input_to_index(user_input)
-   
+   gets []
 end
   
