@@ -8,13 +8,15 @@ end
 
 # code your input_to_index and move method here!
 
-
+def display_board
+  
+end
 
 def input_to_index(user_input)
    user_input.to_i - 1
 end
   
-def move(board, index, character)
-  
+def move(board, index, vale)
+  board[index] = value
 end
 
